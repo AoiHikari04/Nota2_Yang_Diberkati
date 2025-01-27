@@ -1,8 +1,8 @@
-# First Time Using github to stores notes
+# First Time Using Github to stores notes
 
 ## Will i use it?
 
-## or will it just be a mess of folder that are used only needed
+## or will it just be a mess of folder that are used only when needed???
 
 **This notes are meant to be shared**
 
