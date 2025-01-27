@@ -10,6 +10,7 @@ if not i will just private it, idk
 
 If have any wrong in my notes can kindly pm me, if no number can ask me at FSKTM, ehek
 
+These Notes are created using Obsidian, if saw any weird HTML stuff is because the GitHub doesnt render some HTML stuff, if i not lazy i fix it 
 
 
 
