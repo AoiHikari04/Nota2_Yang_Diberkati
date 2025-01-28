@@ -12,5 +12,11 @@ If have any wrong in my notes can kindly pm me, if no number can ask me at FSKTM
 
 These Notes are created using Obsidian, if saw any weird HTML stuff is because the GitHub doesnt render some HTML stuff, if i not lazy i fix it 
 
+---
 
+The content of this Repo contain PlantUML diagram, 
+To view the diagram, can download the Chrome Extension
+[PlantUML](https://chrome.google.com/webstore/detail/plantuml-extension/jbdmdkcjhnceacdkahhpfpijcohplgaj)
+
+---
 
