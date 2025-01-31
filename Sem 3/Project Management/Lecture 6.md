@@ -49,6 +49,8 @@ Root(Quality of estimates)
 
 ```
 
+**FYI:** Same information, just testing different type of diagrams
+
 <hr style="border: 2px solid grey">
 <h2>Developing Work Package Estimates</h2>
 
@@ -65,3 +67,32 @@ Root(Quality of estimates)
 
 @endmindmap
 ```
+
+<hr>
+
+<h2>Top-Down Approaches for calculating cost</h2>
+- Gives the total project a cost
+- Gives smaller percentage to the child below it
+- Divide based on the percentage given
+
+<hr>
+
+<h2>Types of costs</h2>
+- Direct Costs
+	- Costs that clearly charge
+- Direct Overhead Costs
+	- Cost that tied to deliverables
+- General and Administrative overhead costs
+	- Organization costs
+
+---
+<h2>Refining Estimates</h2>
+**Reasons for adjusting estimates**
+- Costs are hidden
+- Normal conditions change
+- Things go wrong
+- Changes in scope and plans
+**Adjusting**
+- adjust times and costs
+
+
