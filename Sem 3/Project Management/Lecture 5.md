@@ -2,7 +2,8 @@
 ## Developing a Project Plan part 2
 
 <hr style="border: 2px solid Grey;" />
-### Learning Objectives
+
+<h2>Learning Objectives</h2>
 
 <div style="
 	 Border: 2px solid grey;
@@ -13,4 +14,3 @@ Elaborate the purpose and importance of project management from the perspective 
 
 <hr style="border: 2px solid Grey;" />
 
-###

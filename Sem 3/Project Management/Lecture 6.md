@@ -71,6 +71,7 @@ Root(Quality of estimates)
 <hr>
 
 <h2>Top-Down Approaches for calculating cost</h2>
+
 - Gives the total project a cost
 - Gives smaller percentage to the child below it
 - Divide based on the percentage given
@@ -78,6 +79,7 @@ Root(Quality of estimates)
 <hr>
 
 <h2>Types of costs</h2>
+
 - Direct Costs
 	- Costs that clearly charge
 - Direct Overhead Costs

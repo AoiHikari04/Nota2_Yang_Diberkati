@@ -1,15 +1,13 @@
-
-## Developing a project plan
+<h1>Developing a project plan</h1>
 
 <hr style="border: 2px solid Grey;" />
-### Learning Objective
-
+<h2>Developing the Project Plan</h2>
 <p>
 Elaborate the purpose and importance of project management from the perspective of planning, tracking and completion of project
 </p>
 
 <hr style="border: 2px solid Grey;" />
-### Developing the Project Plan
+<h2>Developing the Project Plan</h2>
 
 **The project Network**
 
@@ -23,7 +21,7 @@ Elaborate the purpose and importance of project management from the perspective 
 
 <hr style="border: 2px solid Grey;" />
 
-### Introduction to Agile methodology
+<h2>Introduction to Agile methodology</h2>
 
 <div  style="border: 2px solid Red; 
 	 border-radius: 15px; 
@@ -43,7 +41,7 @@ and the information changes as developments move ahead. A new card is added when
 
 <hr style="border: 2px solid Grey;" />
 
-### Constructing a Project Network
+<h2>Constructing a Project Network</h2>
 
 **Terminology:**
 - Activity : An element of the project that requires times
@@ -64,7 +62,7 @@ and the information changes as developments move ahead. A new card is added when
 
 <hr style="border: 1px solid Grey;" />
 
-### Activity-On-Node Fundamentals
+<h2>Activity-On-Node Fundamentals</h2>
 
 ```mermaid
 graph LR
@@ -153,7 +151,7 @@ example of Network Diagram
 
 <hr style="border: 2px solid Grey;" />
 
-### Determining Free Slack or Float
+<h2>Determining Free Slack or Float</h2>
 
 <div style="font-size: 15px;">
 <h2 style="border: 3px solid blue;  border-radius: 15px;

@@ -3,14 +3,14 @@
 
 <hr style="border: 2px solid Grey;" />
 
-### Learning Objectives
+<h2>Learning Objectives</h2>
 
 Elaborate the purpose and importance of project management from the perspective if planning, tracking and completion of project
 
 
 <hr style="border: 2px solid Grey;" />
 
-### Defining the project
+<h2>Defining the project</h2>
 
 Defining the project scope
 
@@ -27,7 +27,8 @@ A[Defining the project Scope]
 
 <hr style="border: 2px solid Grey;" />
 
-### Step 1: Defining the project scope
+<h2>Step 1: Defining the project scope
+</h2>
 
 **Project Scope**
 - A definition of the end result of the project
@@ -70,7 +71,7 @@ Scope Creep
 
 <hr style="border: 2px solid Grey;" />
 
-### Step 2: Establishing Project Priorities
+<h2>Step 2: Establishing Project Priorities</h2>
 
 **Causes of project Trade-Offs**
 - shifts in the relative importance of criterions 
@@ -94,7 +95,7 @@ B[Quality]
 
 <hr style="border: 2px solid Grey;" />
 
-### Step 3: Creating the Work Breakdown Structure
+<h2>Step 3: Creating the Work Breakdown Structure</h2>
 
 **Work Breakdown Structure**
 - A hierarchical outline that identifies products and work in a project
@@ -154,7 +155,7 @@ lowest level of WBS
 
 <hr style="border: 2px solid Grey;" />
 
-### Step 4: Integrating the WBS with the Origanisation
+<h2>Step 4: Integrating the WBS with the Origanisation</h2>
 
 Depicts how the firm is organized to discharge its work responsibility for project
 
@@ -163,5 +164,5 @@ Depicts how the firm is organized to discharge its work responsibility for proje
 
 <hr style="border: 2px solid Grey;" />
 
-### Step 5: Coding the WBS for the Information System
+<h2>Step 5: Coding the WBS for the Information System</h2>
 
