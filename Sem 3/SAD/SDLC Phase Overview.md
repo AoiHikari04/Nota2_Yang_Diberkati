@@ -1,6 +1,5 @@
 <hr style= "border: 2px solid grey" >
-# Planning
-
+<h1>Planning</h1>
 
 - Project Identification and Selection
 - Project Initiation and Planning
@@ -25,7 +24,7 @@ Final deliverable:****
 
 
 <hr style= "border: 2px solid grey" >
-# Analysis
+<h1>Analysis</h1>
 
 
 **Things that need to do:**
@@ -58,7 +57,7 @@ Process Description tools:
 - Shows the status of a certain output divided by the situation that might happen(lol idk)
 
 <hr style= "border: 2px solid grey" >
-# Design
+<h1>Design</h1>
 
 - Use Case Diagram
 - Activity Diagram
@@ -69,7 +68,7 @@ Process Description tools:
 
 
 <hr style= "border: 2px solid grey" >
-# Implementation
+<h1>Implementation</h1>
 
 - Coding
 - Testing
@@ -94,10 +93,33 @@ Process Description tools:
 7.  Stub Testing
 	- Substitutes few code to test the programs
 
+**Installation**
+1. Direct Installation
+2. Parallel Installation
+3. Single-Location Installation
+4. Phased Installation
+
+DeepSeek:
+
+Let’s imagine you’re building a LEGO castle. Here’s how the installation types work:
+
+1. **Direct Installation**  
+   This is like building your LEGO castle all at once. You take all the pieces and put them together in one go. Done! Easy and quick, but you need all the pieces ready.
+
+2. **Parallel Installation**  
+   This is like building two LEGO castles at the same time. Maybe one for you and one for your friend. You work on both together, but it takes more effort because you’re doing double the work.
+
+3. **Single-Location Installation**  
+   This is like building your LEGO castle in one special spot, like on the kitchen table. You keep everything in one place, and it’s easier to manage because it’s all right there.
+
+4. **Phased Installation**  
+   This is like building your LEGO castle step by step. First, you build the walls, then the towers, and finally the roof. You take your time and do it in small parts, so it’s not too hard.
+
+So, it’s all about how you want to build your LEGO castle—fast, in two places, in one spot, or bit by bit! 😊
+
 
 <hr style= "border: 2px solid grey" >
-# Maintenance
-
+<h1>Maintenance</h1>
 
 - Maintaining the system performance
 - Giving out updating for the systems
