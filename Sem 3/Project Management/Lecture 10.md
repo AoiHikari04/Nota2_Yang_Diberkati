@@ -198,3 +198,21 @@ Establishing a change management system
 
 - **Transferring Risk**: Letting someone else handle the risk.  
   *Example*: Asking your friend to bring the cake so you don’t have to worry about dropping it.
+
+```mermaid
+block-beta
+columns 1
+  db(("DB"))
+  blockArrowId6<["&nbsp;&nbsp;&nbsp;"]>(down)
+  block:ID
+    A
+    B["A wide one in the middle"]
+    C
+  end
+  space
+  D
+  ID --> D
+  C --> D
+  style B fill:#969,stroke:#333,stroke-width:4px
+
+```
