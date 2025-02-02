@@ -42,6 +42,7 @@ C --> D[Action] -- if doesn't work --> B
 ---
 
 <h2>Partial Risk Profile</h2>
+
 Technical
 - Is enough expertise?
 Design
@@ -90,6 +91,7 @@ Scheduling Risks
 
 <hr>
 <h2>Opportunity Management Tactics</h2>
+
 **Exploit**
 - Seeking To eliminate the uncertainty
 
@@ -103,6 +105,7 @@ Scheduling Risks
 - Being willing to take advantage of an opportunity
 
 <h2>Managing Risk</h2>
+
 **Risk Response Control**
 
 Risk Control
@@ -111,7 +114,9 @@ Establishing a change management system
 - Monitor, tracking, reporting risk
 
 <h2>Key Terms</h2>
+
 **Chat GPT**
+
 - **Avoiding Risk**: Choosing not to do something in the project to eliminate the chance of problems. It's like not taking a shortcut to avoid getting lost.
 
 - **Budget Reserve**: Extra money set aside to handle unexpected expenses during the project. It’s like keeping emergency money in your wallet.
