@@ -8,6 +8,7 @@ C --> D[Action] -- if doesn't work --> B
 ```
 
 <h2>Risk Breakdown structure</h2>
+
 ```plantuml
 @startwbs
 
@@ -37,6 +38,8 @@ C --> D[Action] -- if doesn't work --> B
 
 @endwbs
 ```
+
+---
 
 <h2>Partial Risk Profile</h2>
 Technical
