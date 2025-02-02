@@ -6,6 +6,7 @@
 
 ---
 <h2>Project Planning Process</h2>
+
 ```mermaid
 flowchart LR
 A[Scope/WBS] --> B[Network] --> C[Resource and Costs Scheduling]
@@ -16,4 +17,4 @@ B <--> E
 E <--> C
 E <--> D
 ```
----
+

@@ -88,10 +88,12 @@ Root(Quality of estimates)
 ---
 <h2>Refining Estimates</h2>
 **Reasons for adjusting estimates**
+
 - Costs are hidden
 - Normal conditions change
 - Things go wrong
 - Changes in scope and plans
+
 **Adjusting**
 - adjust times and costs
 
