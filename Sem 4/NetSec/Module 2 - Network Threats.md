@@ -58,5 +58,33 @@ indicators of Attacks (IOA)
 - why attack
 - what data are searched/loss/corrupted
 
-Threat Sharing and building Cybersecurity Awareness
-- 
+---
+Threat actors tools
+
+Tools:
+- Password Crackers -> make repeated guesses 
+- Wireless hacking tools -> more susceptible to network security threats, tools are used to intentionally hack to search for vulnerabilities
+- network scanning and hacking tools -> scans hosts for open UDP and TCP ports
+- packet crafting tools -> forge packet to bypass firewall
+- packet sniffers -> steal packet
+- rootkit detectors -> check file integrity
+- fuzzers -> discovers computer systems vulnerabilities
+- forensics tools -> trace of evidence existing files, such deleted/hidden files or malware
+- debuggers -> reverse engineers binary files when writing exploits or analyze malware
+- hacking operating systems -> OS which has preinstall tools
+- encryption tools -> safeguard content when store or transmitting
+- vulnerabilities exploitation tools -> identify remote host vulnerable to security attacks
+- Vulnerabilities scanners -> identify open ports, scans for BYOD, VMs, and client database
+
+Categories of Attacks
+- Eavesdropping attack -> capture and listens to traffic
+- data modification attack -> altered the data in packet without knowledge of sender or receiver
+- IP address spoofing -> tipu ip address
+- password-based attacks -> obtains password, then use the account to attack other network
+- DOS -> prevent the use of one service
+- Man in the Middle -> be the middle man in transfering files, can actively monitor.capture and control the communication transparently
+- Compromised Key Attack -> when threat actor obtain the secret key, can be used to gain access to secured communication without sender or receiver bein aware of the attack
+- sniffer attack -> read network packet, all of them, even without access to the key
+
+---
+malware
